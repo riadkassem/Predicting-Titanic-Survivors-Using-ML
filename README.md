@@ -29,7 +29,7 @@ Data cleaning is a pivotal stage in my analysis. In this phase, I:
 
 ## Model Testing
 
-My project involves rigorous **model testing** to determine the best approach for predicting passenger survival on the Titanic. I evaluate multiple machine learning models, including Logistic Regression, XGBoost, and RandomForest. The culmination of my efforts is a model with an impressive 82.12% accuracy**, showcasing its ability to make accurate predictions.
+My project involves rigorous **model testing** to determine the best approach for predicting passenger survival on the Titanic. I evaluate multiple machine learning models, including Logistic Regression, XGBoost, and RandomForest. The culmination of my efforts is a model with an impressive **82.12% accuracy**, showcasing its ability to make accurate predictions.
 
 ## Test Submission
 
